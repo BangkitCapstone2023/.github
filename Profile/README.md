@@ -13,7 +13,7 @@
   </h4>
 </div>
 
-## :raised_hands: Special Thanks 
+# :notebook_with_decorative_cover: Table of Contents
 <!-- Table of Contents -->
 - [About the Project](#open_book-about-the-project)
 - [Team](#wave-hey-this-is-us)
